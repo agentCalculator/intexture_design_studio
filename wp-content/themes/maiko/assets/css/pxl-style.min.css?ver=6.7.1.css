@@ -6213,7 +6213,7 @@ body.rtl .pxl-box-hover1 .pxl-item--inner:hover:before {
     mask-position: center center;
     mask-size: cover;
     -webkit-mask-size: cover;
-    -webkit-mask-image: url(https://demo.casethemes.net/maiko/wp-content/themes/maiko/assets/img/thumb-mask.png);
+    -webkit-mask-image: url(wp-content/themes/maiko/assets/img/thumb-mask.png);
     -webkit-transition: all 300ms linear 0ms;
     -khtml-transition: all 300ms linear 0ms;
     -moz-transition: all 300ms linear 0ms;
@@ -6233,7 +6233,7 @@ body.rtl .pxl-box-hover1 .pxl-item--inner:hover:before {
     mask-position: center center;
     mask-size: cover;
     -webkit-mask-size: cover;
-    -webkit-mask-image: url(https://demo.casethemes.net/maiko/wp-content/themes/maiko/assets/img/thumb-mask.png);
+    -webkit-mask-image: url(wp-content/themes/maiko/assets/img/thumb-mask.png);
     -webkit-transition: all 300ms linear 0ms;
     -khtml-transition: all 300ms linear 0ms;
     -moz-transition: all 300ms linear 0ms;
@@ -43753,7 +43753,7 @@ input[type=submit]:hover {
     width: 100%;
     display: flex;
     justify-content: center;
-    background-image: url(https://demo.casethemes.net/maiko/wp-content/themes/maiko/assets/img/bg-timetable.png);
+    background-image: url(wp-content/themes/maiko/assets/img/bg-timetable.png);
     background-position: 50%;
     background-size: cover;
     padding: 77px 20px;
